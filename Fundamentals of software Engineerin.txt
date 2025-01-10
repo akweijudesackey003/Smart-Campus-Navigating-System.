@@ -1,0 +1,409 @@
+Fundamentals of software Engineering Class test (2)
+This class test covers from chapters 4 - 8 of the Engineering Software Products by Ian Sommerville
+Points:
+33/35
+Time:
+16:42
+Student Information
+Student Name:
+DERRICK DENTEH
+Student ID:
+4211231381
+Select Class Session
+
+Group C
+
+Group D
+
+Group E
+
+Group F
+Email Address:
+www.derrickheistmandenteh@gmail.com
+Attempt all questions.
+You have 40 minutes to complete this section.
+Correct
+1/1 Points
+Which of the following is NOT a key issue that affects architectural decisions?
+
+Non-functional requirements (e.g., performance, security)
+
+Development team size and skills
+
+User interface preferences
+
+Organizational constraints (e.g., budget, deadlines)
+Correct
+1/1 Points
+Which of the following is NOT a common trade-off in architectural characteristics?
+
+Performance vs. security
+
+Usability vs. development cost
+
+Maintainability vs. flexibility
+
+Reusability vs. performance
+Correct
+1/1 Points
+Which component organization style is characterized by a hierarchical structure with clear layers of abstraction?
+
+Layered architecture
+
+Client-server architecture
+
+Pipe-and-filter architecture
+
+Event-based architecture
+Correct
+1/1 Points
+Which of the following is NOT a common source of architectural complexity?
+
+Simple component interactions
+
+Large number of components
+
+Tight coupling between components
+
+Distributed systems
+Correct
+1/1 Points
+Which architectural style is best suited for systems that need to handle a large number of concurrent requests from multiple clients?
+
+Client-server architecture
+
+Batch processing architecture
+
+Data flow architecture
+
+Call-and-return architecture
+Correct
+1/1 Points
+Which of the following is NOT a benefit of using a well-defined software architecture?
+
+Improved communication among stakeholders
+
+Reduced development costs
+
+Increased system maintainability
+
+Early identification of potential risks
+Correct
+1/1 Points
+Which architectural complexity arises when changes to one component can have unintended consequences on other components?
+
+Tight coupling
+
+High fan-out
+
+Cyclic dependencies
+
+Large number of interfaces
+Correct
+1/1 Points
+Which component organization style is often used in systems where data is processed in a sequential manner, with each component transforming the data in some way?
+
+Pipe-and-filter architecture
+
+Object-oriented architecture
+
+Service-oriented architecture
+
+Repository architecture
+Incorrect
+0/1 Points
+Which of the following is NOT a key benefit of virtualization in cloud computing?
+
+Resource pooling
+
+Improved hardware utilization
+
+Increased energy consumption
+
+Enhanced flexibility and scalability
+Correct
+1/1 Points
+What is the key difference between scalability and elasticity in cloud computing?
+
+Scalability refers to the ability to handle increasing demand, while elasticity refers to the ability to automatically adjust resources based on demand.
+
+Scalability refers to the ability to automatically adjust resources based on demand, while elasticity refers to the ability to handle increasing demand.
+
+Scalability and elasticity are synonyms, both referring to the ability to handle increasing demand.
+
+Scalability refers to the ability to handle decreasing demand, while elasticity refers to the ability to handle increasing demand.
+Correct
+1/1 Points
+Which of the following is NOT a common technique for ensuring resilience in cloud-based systems?
+
+Data replication
+
+Load balancing
+
+Single points of failure
+
+Disaster recovery planning
+Correct
+1/1 Points
+What is the primary advantage of using containers over virtual machines (VMs)?
+
+Containers are more resource-intensive than VMs.
+
+Containers provide better isolation between applications than VMs.
+
+Containers are less portable than VMs.
+
+Containers require more hardware resources than VMs.
+Correct
+1/1 Points
+Which type of database is designed to be shared by multiple tenants, each with their own isolated data?
+
+Multi-instance database
+
+Multi-tenant database
+
+NoSQL database
+
+Relational database
+Correct
+1/1 Points
+Which of the following is NOT a common business issue to consider when choosing a cloud platform?
+
+Vendor lock-in
+
+Data security and privacy
+
+Cost optimization
+
+Open-source software availability
+Correct
+1/1 Points
+Which of the following is NOT a technical issue to consider when choosing a cloud platform?
+
+Service level agreements (SLAs)
+
+Network latency
+
+Compliance requirements
+
+Marketing budget
+Incorrect
+0/1 Points
+What is the main difference between a multi-tenant database and a multi-instance database?
+
+Multi-tenant databases are designed to be shared by multiple tenants, while multi-instance databases are not.
+
+Multi-instance databases are designed to be shared by multiple tenants, while multi-tenant databases are not.
+
+Multi-tenant databases provide better isolation between tenants than multi-instance databases.
+
+Multi-instance databases provide better isolation between tenants than multi-tenant databases.
+Correct
+1/1 Points
+Which of the following is NOT a common type of system model?
+
+Use case model
+
+Data flow model
+
+Class diagram
+
+Network diagram
+Correct
+1/1 Points
+Which modeling technique is used to describe the interactions between a system and its external actors?
+
+Use case modeling
+
+Sequence diagram
+
+State diagram
+
+Activity diagram
+Correct
+1/1 Points
+Which diagram is used to model the sequence of messages exchanged between objects in a system?
+
+Sequence diagram
+
+Class diagram
+
+Activity diagram
+
+State diagram
+Correct
+1/1 Points
+Which diagram is used to model the different states that an object can be in and the transitions between those states?
+
+Use case diagram
+
+Sequence diagram
+
+State diagram
+
+Activity diagram
+Correct
+1/1 Points
+Which diagram is used to model the flow of control and data through a system?
+
+Use case diagram
+
+Data flow diagram
+
+Class diagram
+
+State diagram
+Correct
+1/1 Points
+Which of the following is NOT a common type of structural model?
+
+Use case diagram
+
+Class diagram
+
+Object diagram
+
+Component diagram
+Correct
+1/1 Points
+Which diagram is used to model the activities involved in a process?
+
+Use case diagram
+
+Sequence diagram
+
+Activity diagram
+
+State diagram
+Correct
+1/1 Points
+Which diagram is used to model the context of a system, showing its relationship with other systems in its environment?
+
+Context diagram
+
+Use case diagram
+
+Class diagram
+
+State diagram
+Correct
+1/1 Points
+Which of the following best describes direct service communication in a cloud-based architecture?
+
+Communication facilitated by a message queue or broker.
+
+Services interacting through a shared database.
+
+A service directly invoking another service's API.
+
+Communication using asynchronous messaging.
+Correct
+1/1 Points
+What is a key advantage of indirect service communication compared to direct communication?
+
+Lower latency in service interactions.
+
+Tighter coupling between services.
+
+Increased system resilience and fault tolerance.
+
+Simpler implementation of service interfaces.
+Correct
+1/1 Points
+In the context of cloud-based systems, what is a common mechanism used for indirect service communication?
+
+RESTful APIs
+
+Remote Procedure Calls (RPC)
+
+Message queues (e.g., RabbitMQ, Kafka)
+
+Shared memory
+Correct
+1/1 Points
+Which of the following is a characteristic of direct service communication?
+
+Services are loosely coupled.
+
+Changes to one service may require changes to other services.
+
+Communication is asynchronous.
+
+It relies on a message broker.
+Correct
+1/1 Points
+Which of the following describes a Denial-of-Service (DoS) attack?
+
+Unauthorized access to sensitive data.
+
+Overwhelming a system with requests, making it unavailable to legitimate users.
+
+Intercepting and modifying communication between two parties.
+
+Injecting malicious code into a web application.
+Correct
+1/1 Points
+Phishing is a type of:
+
+Malware attack.
+
+Social engineering attack.
+
+Denial-of-service attack.
+
+Man-in-the-middle attack.
+Correct
+1/1 Points
+Which of the following is a common authentication method that relies on something a user knows?
+
+Biometric scan (fingerprint, iris scan)
+
+Security token (hardware key)
+
+Password
+
+Digital certificate
+Correct
+1/1 Points
+A man-in-the-middle attack involves:
+
+Gaining unauthorized access to a system by exploiting a software vulnerability.
+
+Intercepting and potentially altering communication between two parties without their knowledge.
+
+Flooding a server with requests to make it unavailable.
+
+Tricking users into revealing sensitive information through deceptive emails or websites.
+Correct
+1/1 Points
+Which of the following is NOT typically considered a key dimension of software quality?
+
+Functionality (meeting requirements)
+
+Portability (ease of transfer to other platforms)
+
+Code Obfuscation (making the code difficult to understand)
+
+Maintainability (ease of modification and bug fixing)
+Correct
+1/1 Points
+Cyclomatic complexity is a metric used to measure:
+
+The number of lines of code in a program.
+
+The number of external dependencies a program has.
+
+The structural complexity of a program's control flow.
+
+The performance of a program in terms of execution speed.
+Correct
+1/1 Points
+High software complexity can lead to:
+
+Increased reliability and fewer bugs.
+
+Easier testing and maintenance.
+
+Increased difficulty in understanding, testing, and maintaining the software.
+
+Improved performance and scalability.
